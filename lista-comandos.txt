@@ -1,0 +1,8 @@
+git init
+git add .
+git commit -m "Doc"
+git branch -M main"
+git branch -M main
+git remote add origin https://github.com/NicolasStorti/flutter-indroduction.git
+git push -u origin main
+doskey /history > lista-comandos.txt
